@@ -1,20 +1,20 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
-  "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "title": "Women&#39;s Clothing, Clothes &amp; Fashion, Shop Dresses Online | MIBO",
+  "titleTemplate": "%s - MIBO Store",
+  "description": "From shoes to clothing, from sports equipment to accessories. All fashion inspiration &amp; the latest trends can be found online at MIBO",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "title": "Women&#39;s Clothing, Clothes &amp; Fashion, Shop Dresses Online | MIBO",
+    "description": "From shoes to clothing, from sports equipment to accessories. All fashion inspiration &amp; the latest trends can be found online at MIBO",
     "type": "website",
     "locale": "en_IE",
-    "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "url": "https://xiaobaii.com",
+    "site_name": "MIBO Store",
     "images": [
       {
         "url": "/card.png",
         "width": 800,
         "height": 600,
-        "alt": "Next.js Commerce"
+        "alt": "MIBO Store"
       }
     ]
   },
