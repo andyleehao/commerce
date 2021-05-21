@@ -31,7 +31,7 @@ const Footer: FC<Props> = ({ className, pages }) => {
                 <span className="rounded-full border border-gray-700 mr-2">
                   <Logo />
                 </span>
-                <span><MIBO></MIBO></span>
+                <span>MIBO</span>
               </a>
             </Link>
           </div>
@@ -103,8 +103,8 @@ const Footer: FC<Props> = ({ className, pages }) => {
             <span className="text-primary">Crafted by</span>
             <a
               rel="noopener"
-              href="https://vercel.com"
-              aria-label="Vercel.com Link"
+              href="https://keding.tech"
+              aria-label="keding.tech Link"
               target="_blank"
               className="text-primary"
             >
